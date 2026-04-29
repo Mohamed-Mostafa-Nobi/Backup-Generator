@@ -1,6 +1,6 @@
 💾 Backup Generator
 
-I’m excited to share one of my latest automation projects: Backup Generator.
+I’m excited to share one of my latest automation projects: Backup Generator.https://github.com/Mohamed-Mostafa-Nobi/Backup-Generator/blob/main/README.md
 
 Keeping files and folders safe is a critical task, but manual backups can be time-consuming and easy to forget. This tool was built to automate the process and ensure your important data is always protected.
 
