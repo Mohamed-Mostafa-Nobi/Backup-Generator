@@ -1,0 +1,39 @@
+D:\Automation Tool Task\Automation Tool Solution\Automation Tool\bin\Debug\Automation Tool.exe.config
+D:\Automation Tool Task\Automation Tool Solution\Automation Tool\bin\Debug\Automation Tool.exe
+D:\Automation Tool Task\Automation Tool Solution\Automation Tool\bin\Debug\Automation Tool.pdb
+D:\Automation Tool Task\Automation Tool Solution\Automation Tool\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Automation Tool Task\Automation Tool Solution\Automation Tool\bin\Debug\System.ValueTuple.dll
+D:\Automation Tool Task\Automation Tool Solution\Automation Tool\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\Automation Tool Task\Automation Tool Solution\Automation Tool\obj\Debug\Automation Tool.csproj.AssemblyReference.cache
+D:\Automation Tool Task\Automation Tool Solution\Automation Tool\obj\Debug\Automation Tool.csproj.CoreCompileInputs.cache
+D:\Automation Tool Task\Automation Tool Solution\Automation Tool\obj\Debug\Automati.95DD7595.Up2Date
+D:\Automation Tool Task\Automation Tool Solution\Automation Tool\obj\Debug\Automation Tool.exe
+D:\Automation Tool Task\Automation Tool Solution\Automation Tool\obj\Debug\Automation Tool.pdb
+D:\Automation Tool Task\Automation Tool Solution\Automation Tool\obj\Debug\Automation Tool.csproj.SuggestedBindingRedirects.cache
+D:\Automation Tool Task\Automation Tool Solution\Automation Tool\obj\Debug\Automation Tool.exe.config
+D:\Automation Tool Task\Automation Tool Solution - 01\Automation Tool\bin\Debug\Automation Tool.exe.config
+D:\Automation Tool Task\Automation Tool Solution - 01\Automation Tool\bin\Debug\Automation Tool.exe
+D:\Automation Tool Task\Automation Tool Solution - 01\Automation Tool\bin\Debug\Automation Tool.pdb
+D:\Automation Tool Task\Automation Tool Solution - 01\Automation Tool\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Automation Tool Task\Automation Tool Solution - 01\Automation Tool\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\Automation Tool Task\Automation Tool Solution - 01\Automation Tool\bin\Debug\System.ValueTuple.dll
+D:\Automation Tool Task\Automation Tool Solution - 01\Automation Tool\obj\Debug\Automation Tool.csproj.AssemblyReference.cache
+D:\Automation Tool Task\Automation Tool Solution - 01\Automation Tool\obj\Debug\Automation Tool.csproj.SuggestedBindingRedirects.cache
+D:\Automation Tool Task\Automation Tool Solution - 01\Automation Tool\obj\Debug\Automation Tool.exe.config
+D:\Automation Tool Task\Automation Tool Solution - 01\Automation Tool\obj\Debug\Automation Tool.csproj.CoreCompileInputs.cache
+D:\Automation Tool Task\Automation Tool Solution - 01\Automation Tool\obj\Debug\Automati.95DD7595.Up2Date
+D:\Automation Tool Task\Automation Tool Solution - 01\Automation Tool\obj\Debug\Automation Tool.exe
+D:\Automation Tool Task\Automation Tool Solution - 01\Automation Tool\obj\Debug\Automation Tool.pdb
+D:\Automation Tool Task\Automation Tool Solution - 02\Automation Tool\bin\Debug\Automation Tool.exe.config
+D:\Automation Tool Task\Automation Tool Solution - 02\Automation Tool\bin\Debug\Automation Tool.exe
+D:\Automation Tool Task\Automation Tool Solution - 02\Automation Tool\bin\Debug\Automation Tool.pdb
+D:\Automation Tool Task\Automation Tool Solution - 02\Automation Tool\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Automation Tool Task\Automation Tool Solution - 02\Automation Tool\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\Automation Tool Task\Automation Tool Solution - 02\Automation Tool\bin\Debug\System.ValueTuple.dll
+D:\Automation Tool Task\Automation Tool Solution - 02\Automation Tool\obj\Debug\Automation Tool.csproj.AssemblyReference.cache
+D:\Automation Tool Task\Automation Tool Solution - 02\Automation Tool\obj\Debug\Automation Tool.csproj.SuggestedBindingRedirects.cache
+D:\Automation Tool Task\Automation Tool Solution - 02\Automation Tool\obj\Debug\Automation Tool.exe.config
+D:\Automation Tool Task\Automation Tool Solution - 02\Automation Tool\obj\Debug\Automation Tool.csproj.CoreCompileInputs.cache
+D:\Automation Tool Task\Automation Tool Solution - 02\Automation Tool\obj\Debug\Automati.95DD7595.Up2Date
+D:\Automation Tool Task\Automation Tool Solution - 02\Automation Tool\obj\Debug\Automation Tool.exe
+D:\Automation Tool Task\Automation Tool Solution - 02\Automation Tool\obj\Debug\Automation Tool.pdb
