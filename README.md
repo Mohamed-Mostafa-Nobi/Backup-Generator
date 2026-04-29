@@ -1,11 +1,12 @@
-💾 Backup Generator
+# 💾 Backup Generator
 
+Backup Generator is a lightweight automation tool designed to streamline data protection. It reads source paths from a text file, creates timestamped backups, and notifies the user upon completion.
 
+### ✨ Features
+* 📁 **Simple Setup:** Reads paths from `Backup Generator.txt` on your Desktop.
+* 🔄 **Automated Backups:** Automatically processes each path provided.
+* 🕒 **Smart Naming:** `FileOrFolderName [yyyy-mm-dd_hh-mm-ss AM/PM]`
+* 🔔 **Instant Feedback:** Displays Windows notifications on success.
+* ⏰ **Task Scheduling:** Fully compatible with Windows Task Scheduler.
 
-✨ Features
-📁 Reads file and folder paths from a simple text file (Backup Generator.txt) placed on the Desktop
-🔄 Automatically creates backups for each path provided
-🕒 Uses a clear naming convention:
-FileOrFolderName [yyyy-mm-dd_hh-mm-ss AM/PM]
-🔔 Displays a Windows notification after each successful backup
-⏰ Can be scheduled using Task Scheduler (daily, weekly, or at startup)
+---
